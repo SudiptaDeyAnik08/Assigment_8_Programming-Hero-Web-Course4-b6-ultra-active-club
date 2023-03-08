@@ -1,0 +1,107 @@
+.Cart_Section{
+    background-color: whitesmoke;
+    height: 100%;
+    margin-left: 40px;
+}
+
+.Parent-info{
+    display: flex;
+}
+
+.Personal-info-description{
+    margin-top: 20px;
+    text-align: left;
+
+}
+
+#Personal-img{
+   /* height: 100px;
+   width: 100px; */
+   padding: 10px;
+}
+
+#Personal-img img{
+    width: 80px; 
+    height: auto;
+    border-radius: 20px;
+}
+
+.body-info{
+    display: flex;
+    padding: 10px;
+    
+}
+
+.Parent{
+    display: flex;
+    background-color: rgb(195, 239, 238);
+    /* padding: 10px; */
+   align-items: center;
+   /* margin-top: 20px; */
+   border-radius: 20px;
+   /* margin: 5px; */
+   margin-top: 20px;
+}
+
+.Add-A-Break{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.Button{
+    background-color: rgb(195, 239, 238);
+    padding: 30px;
+    border-radius: 20px;
+    /* margin-bottom: 10px; */
+}
+
+.Button button{
+   border-radius: 50px;
+   border: navajowhite;
+   padding: 10px;
+   margin: 2px;
+}
+
+.Button button:hover{
+    background-color: blue;
+    color: white;
+}
+.Exercise-Details{
+    display: flex;
+    background-color: rgb(195, 239, 238);
+    padding: 14px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+  
+}
+
+.Exercise-Details-time{
+    width: 50%;
+}
+
+.Exercise-Details-p{
+    width: 50%;
+    
+}
+
+.Exercise-Details-p {
+  
+
+}
+
+.Activity-Completed-btn{
+    margin-top: 50px;
+    padding: 20px;
+    width: 90%;
+    background-color: rgb(43, 110, 226);
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.Activity-Completed-btn:hover{
+    background-color: blueviolet;
+}
